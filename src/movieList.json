@@ -1,0 +1,38 @@
+[
+    {
+        "Title":"Deadpool","Year":"2016","Rated":"R",
+        "Released":"12 Feb 2016","Runtime":"108 min",
+        "Genre":"Action, Adventure, Comedy, Sci-Fi",
+        "Director":"Tim Miller",
+        "Actors":"Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
+        "Plot":"A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    },
+    {
+        "Title":"Spider-Man: Homecoming","Year":"2017","Rated":"PG-13",
+        "Released":"07 Jul 2017","Runtime":"133 min",
+        "Genre":"Action, Adventure, Sci-Fi",
+        "Director":"Jon Watts",
+        "Actors":"Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei",
+        "Plot":"Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX300.jpg"
+    },
+    {
+        "Title":"Thor: Ragnarok","Year":"2017","Rated":"PG-13",
+        "Released":"03 Nov 2017","Runtime":"130 min",
+        "Genre":"Action, Adventure, Comedy, Fantasy, Sci-Fi",
+        "Director":"Taika Waititi",
+        "Actors":"Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba",
+        "Plot":"Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg"
+    }, 
+    {
+        "Title":"Avengers: Infinity War","Year":"2018","Rated":"PG-13",
+        "Released":"27 Apr 2018","Runtime":"149 min",
+        "Genre":"Action, Adventure, Sci-Fi",
+        "Director":"Anthony Russo, Joe Russo",
+        "Actors":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
+        "Plot":"The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
+    }
+]
